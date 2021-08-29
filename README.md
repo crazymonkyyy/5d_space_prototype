@@ -1,0 +1,1 @@
+A messy demo for 5d space, mostly to check that "treegrid" was correct to compose 5d-y things
